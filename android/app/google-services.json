@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "597685604717",
+    "project_id": "careersync-c449e",
+    "storage_bucket": "careersync-c449e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:597685604717:android:2b0550ba7b2d210aceca64",
+        "android_client_info": {
+          "package_name": "com.mycompany.careersync"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDF9zV15M5Qd5kGuEWzcIXgR7719An5JZA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
